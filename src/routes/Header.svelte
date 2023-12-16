@@ -22,16 +22,20 @@
 			<div class="navbar-item">
 			  <div class="buttons">
 				<!-- svelte-ignore a11y-missing-attribute -->
-				<a class="button is-primary">
+				<a href="https://estonyastartup.com.tr/blog" class="button is-primary">
 				  <strong>Blog</strong>
 				</a>
 				<!-- svelte-ignore a11y-missing-attribute -->
-				<a class="button is-light">
+				<a href="https://instagram.com/estonya.startup" class="button is-light">
 					<i class="fa-brands fa-instagram"></i>
 				</a>
 				<!-- svelte-ignore a11y-missing-attribute -->
-				<a class="button is-light">
+				<a href="https://x.com/estonyastartup" class="button is-light">
 					<i class="fa-brands fa-x-twitter"></i>
+				</a>
+				<!-- svelte-ignore a11y-missing-attribute -->
+				<a href="https://www.threads.net/@estonya.startup" class="button is-light">
+					<i class="fa-brands fa-threads"></i>
 				</a>
 			  </div>
 			</div>
@@ -41,5 +45,21 @@
 </header>
 
 <style>
-	
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+
 </style>
