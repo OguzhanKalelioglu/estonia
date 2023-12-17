@@ -17,8 +17,7 @@
 	<meta name="twitter:site" content="@estonyastartup"/>
 	<meta name="twitter:creator" content="@estonyastartup"/>
 	<link rel="preconnect" href="https://www.google.com"> 
-	<link rel="preconnect" href="https://www.google.com.tr"> 
-	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="preconnect" href="https://www.google.com.tr">
 </svelte:head>
 
 <section>
