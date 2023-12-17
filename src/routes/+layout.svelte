@@ -1,5 +1,11 @@
 <script>
 	import { injectSpeedInsights } from "@vercel/speed-insights/sveltekit"
+	injectSpeedInsights();
+	import { dev } from '$app/environment';
+	// @ts-ignore
+	import { inject } from '@vercel/analytics';
+ 
+inject({ mode: dev ? 'development' : 'production' });
 	import Header from './Header.svelte';
 	import './styles.css';
 </script>
