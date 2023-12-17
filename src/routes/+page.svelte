@@ -1,6 +1,24 @@
 <svelte:head>
-	<title>Home</title>
+	<title>Estonya Startup Topluluğu</title>
 	<meta name="description" content="Estonya Startup Topluluğu" />
+	<meta name="keywords" content="estonya, estonya startup, estonya e-residency, estonya startup kurmak, estonya da şirket kurmak, estonya iş imkanları, estonya nasıl bir ülke, estonya nasıl gidilir">
+	<link rel="canonical" href="https://estonyastartup.com.tr" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Estonya Startup Topluluğu">
+	<meta property="og:url" content="https://estonyastartup.com.tr">
+	<meta property="og:description" content="Estonya Startup Topluluğu Bu topluluk ile amaç, Estonya da şirket kurup yaşamak isteyenlerle süreçlerde birbirine destek olmak ve iş fikirleri üretmektedir. Kar amacı gütmeyen kuruluştur.">
+	<meta property="og:image" content="https://https://estonyastartup.com.tr/logo.png">    
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:url" content="https://estonyastartup.com.tr"/>
+	<meta name="twitter:title" content="Estonya Startup Topluluğu"/>
+	<meta name="twitter:description" content="Estonya Startup Topluluğu Bu topluluk ile amaç, Estonya da şirket kurup yaşamak isteyenlerle süreçlerde birbirine destek olmak ve iş fikirleri üretmektedir. Kar amacı gütmeyen kuruluştur."/>
+	<meta name="twitter:image" content="https://estonyastartup.com.tr/logo.png"/>
+	<meta name="twitter:site" content="@estonyastartup"/>
+	<meta name="twitter:creator" content="@estonyastartup"/>
+	<link rel="preconnect" href="https://www.google.com"> 
+	<link rel="preconnect" href="https://www.google.com.tr"> 
+	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 </svelte:head>
 
 <section>
